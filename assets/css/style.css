@@ -684,6 +684,13 @@ section {
 --------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
+# Female Entrepreneur Network Section, City/College Chapters Section
+--------------------------------------------------------------*/
+.femaleEntrepreneurNetwork img, .cityCollegeChapters img{
+  height: 6rem;
+}
+
+/*--------------------------------------------------------------
 # Join Our Community
 --------------------------------------------------------------*/
 .joinOurCommunity {
