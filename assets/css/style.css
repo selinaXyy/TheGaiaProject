@@ -692,14 +692,13 @@ section {
 
 @media (max-width: 576px){
   .femaleEntrepreneurNetwork #carouselExampleInterval{
-    width: 80%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
 
-  .w-sm-100{
-    width: 100% !important;
-    height: 9rem !important;
+  .w-sm-50{
+    width: 48% !important;
   }
 }
 
