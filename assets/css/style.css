@@ -690,6 +690,13 @@ section {
   height: 6rem;
 }
 
+@media (max-width: 576px){
+  .w-sm-100{
+    width: 100% !important;
+    height: 9rem !important;
+  }
+}
+
 /*--------------------------------------------------------------
 # Join Our Community
 --------------------------------------------------------------*/
