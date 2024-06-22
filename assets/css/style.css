@@ -953,6 +953,7 @@ section {
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 5px;
+  padding-top: .7rem !important;
   color: #222222;
 }
 
